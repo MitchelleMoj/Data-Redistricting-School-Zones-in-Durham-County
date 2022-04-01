@@ -1,1 +1,3 @@
 # Data-Redistricting-School-Zones-in-Durham-County
+
+This was 2021 summer research experience in which my team was to approach an interdisciplinary challenge using data analystics. My team and I worked to create multiple redistricting plans of the schools zomes in Durham with the idea in mind of working to combat Durham's racial and economically segregated school system. We incorporated racial data, socioeconomic data, and walkability in our plan to select the most optimized plans based on a score system. We used Pandas and QGIS(Quantum Geographic Information System) to visualize and create our plans.
